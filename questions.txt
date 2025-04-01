@@ -1,0 +1,532 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+B
+
+What is 2 + 2?
+1
+2
+3
+4
+D
+
+Who wrote 'Romeo and Juliet'?
+Shakespeare
+Dickens
+Hemingway
+Austen
+A
+
+Which planet is known as the Red Planet?
+Earth
+Venus
+Mars
+Jupiter
+C
+
+What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Pacific Ocean
+D
+
+Who discovered penicillin?
+Marie Curie
+Alexander Fleming
+Isaac Newton
+Albert Einstein
+B
+
+Which gas do plants absorb from the atmosphere?
+Oxygen
+Hydrogen
+Nitrogen
+Carbon Dioxide
+D
+
+Who painted the Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Claude Monet
+C
+
+In which year did the Titanic sink?
+1910
+1911
+1912
+1913
+C
+
+Who is known as the father of computers?
+Charles Babbage
+Alan Turing
+Bill Gates
+Steve Jobs
+A
+
+What is the largest country in the world by area?
+China
+United States
+Russia
+Canada
+C
+
+What is the smallest country in the world?
+Vatican City
+Monaco
+San Marino
+Nauru
+A
+
+Which element has the chemical symbol 'O'?
+Oxygen
+Osmium
+Ozone
+Oganesson
+A
+
+What is the capital of Japan?
+Seoul
+Beijing
+Tokyo
+Hanoi
+C
+
+Who invented the telephone?
+Thomas Edison
+Alexander Graham Bell
+Nikola Tesla
+James Watt
+B
+
+What is the hardest natural substance on Earth?
+Gold
+Diamond
+Iron
+Platinum
+B
+
+Which planet is closest to the sun?
+Earth
+Venus
+Mars
+Mercury
+D
+
+Which is the largest desert in the world?
+Sahara
+Kalahari
+Gobi
+Antarctic Desert
+D
+
+What is the tallest mountain in the world?
+Mount Kilimanjaro
+Mount Everest
+K2
+Mount Fuji
+B
+
+What is the currency of the United Kingdom?
+Euro
+Pound Sterling
+Dollar
+Yen
+B
+
+What is the primary language spoken in Brazil?
+Spanish
+Portuguese
+English
+French
+B
+
+Who was the first president of the United States?
+George Washington
+Abraham Lincoln
+Thomas Jefferson
+John Adams
+A
+
+What is the symbol for the chemical element gold?
+Ag
+Au
+Pb
+Fe
+B
+
+Who wrote '1984'?
+George Orwell
+Aldous Huxley
+F. Scott Fitzgerald
+Ernest Hemingway
+A
+
+Which country is known as the Land of the Rising Sun?
+China
+South Korea
+India
+Japan
+D
+
+What is the longest river in the world?
+Amazon River
+Nile River
+Yangtze River
+Mississippi River
+B
+
+What is the largest planet in our solar system?
+Earth
+Mars
+Jupiter
+Saturn
+C
+
+Who is known for developing the theory of relativity?
+Isaac Newton
+Albert Einstein
+Niels Bohr
+Galileo Galilei
+B
+
+What is the main ingredient in guacamole?
+Tomato
+Avocado
+Lettuce
+Onion
+B
+
+Which country invented the pizza?
+United States
+Italy
+France
+Greece
+B
+
+What is the capital of Australia?
+Sydney
+Melbourne
+Canberra
+Perth
+C
+
+Which sport is known as the 'king of sports'?
+Basketball
+Football
+Baseball
+Cricket
+B
+
+What is the name of the famous clock tower in London?
+Eiffel Tower
+Big Ben
+Statue of Liberty
+Colosseum
+B
+
+In which year did World War II end?
+1939
+1940
+1945
+1950
+C
+
+What is the square root of 64?
+6
+8
+10
+12
+B
+
+Which country is the Great Wall of China in?
+China
+India
+Russia
+Japan
+A
+
+What is the main ingredient in sushi?
+Fish
+Rice
+Seaweed
+Egg
+B
+
+Which continent is known as the 'Dark Continent'?
+Asia
+Africa
+South America
+Europe
+B
+
+What is the capital of Germany?
+Berlin
+Munich
+Frankfurt
+Hamburg
+A
+
+What is the chemical symbol for water?
+H2O
+CO2
+O2
+H2
+A
+
+Who is known as the 'King of Pop'?
+Elvis Presley
+Michael Jackson
+Prince
+James Brown
+B
+
+Which country is famous for tulips?
+Germany
+Netherlands
+France
+Spain
+B
+
+What is the national animal of Canada?
+Moose
+Bear
+Eagle
+Beaver
+D
+
+Which month has 28 days?
+February
+March
+April
+All of the above
+D
+
+In which country is the city of Cairo located?
+Egypt
+Saudi Arabia
+Turkey
+Jordan
+A
+
+Which city is known as the 'Big Apple'?
+Los Angeles
+Chicago
+New York City
+San Francisco
+C
+
+Which country is the origin of the car manufacturer 'Toyota'?
+China
+Japan
+South Korea
+Germany
+B
+
+Which element has the chemical symbol 'Na'?
+Neon
+Sodium
+Nickel
+Nitrogen
+B
+
+What is the capital of Italy?
+Rome
+Paris
+Madrid
+Berlin
+A
+
+Which bird is known for its ability to mimic human speech?
+Parrot
+Crow
+Eagle
+Sparrow
+A
+
+Which country is the Eiffel Tower located in?
+United Kingdom
+France
+Germany
+Italy
+B
+
+Who was the first man to step on the moon?
+Buzz Aldrin
+Neil Armstrong
+Yuri Gagarin
+John Glenn
+B
+
+Which animal is known as the 'King of the Jungle'?
+Elephant
+Tiger
+Lion
+Cheetah
+C
+
+What is the largest land animal?
+Elephant
+Giraffe
+Hippopotamus
+Rhinoceros
+A
+
+Which country is famous for its kangaroos?
+New Zealand
+Australia
+South Africa
+United States
+B
+
+Which is the longest side of a right triangle?
+Hypotenuse
+Base
+Height
+Angle
+A
+
+What is the largest island in the world?
+Australia
+Greenland
+New Guinea
+Borneo
+B
+
+Which ocean is the largest by area?
+Atlantic
+Pacific
+Indian
+Arctic
+B
+
+Who is the author of the Harry Potter series?
+J.R.R. Tolkien
+J.K. Rowling
+C.S. Lewis
+George R.R. Martin
+B
+
+What is the official language of Egypt?
+Arabic
+Hebrew
+French
+English
+A
+
+What is the boiling point of water in Celsius?
+90°C
+100°C
+110°C
+120°C
+B
+
+Which country is known for the Taj Mahal?
+India
+Pakistan
+Bangladesh
+Nepal
+A
+
+What is the largest organ in the human body?
+Heart
+Liver
+Skin
+Lungs
+C
+
+Which is the only continent without a desert?
+Europe
+Africa
+Asia
+Antarctica
+A
+
+Which color is a combination of red and blue?
+Green
+Purple
+Yellow
+Orange
+B
+
+What is the primary ingredient in tofu?
+Rice
+Soybeans
+Wheat
+Corn
+B
+
+Which is the second largest continent by land area?
+Africa
+Asia
+Europe
+North America
+B
+
+Which is the national sport of Japan?
+Baseball
+Sumo Wrestling
+Judo
+Karate
+B
+
+Which country is the Eiffel Tower located in?
+United Kingdom
+France
+Germany
+Italy
+B
+
+Who is known as the 'Father of Modern Physics'?
+Albert Einstein
+Isaac Newton
+Niels Bohr
+Max Planck
+A
+
+What is the largest living mammal?
+Elephant
+Blue Whale
+Giraffe
+Hippopotamus
+B
+
+What is the main ingredient in hummus?
+Lentils
+Chickpeas
+Olives
+Yogurt
+B
+
+What is the capital of Spain?
+Barcelona
+Madrid
+Seville
+Valencia
+B
+
+Who was the first woman to fly solo across the Atlantic Ocean?
+Amelia Earhart
+Sally Ride
+Harriet Quimby
+Jacqueline Cochran
+A
+
+Which country is famous for the Great Barrier Reef?
+United States
+Australia
+South Africa
+Brazil
+B
+
+Which fruit is known as the 'King of Fruits'?
+Apple
+Durian
+Mango
+Banana
+B
+
